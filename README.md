@@ -58,6 +58,8 @@
 
 - [MoAI-ADK](https://github.com/modu-ai/moai-adk) ![](https://img.shields.io/github/stars/modu-ai/moai-adk.svg?cacheSeconds=86400) - Framework combining spec-first development, TDD, and AI agents for transparent development lifecycle.
 
+- [ouroboros](https://github.com/Q00/ouroboros) ![](https://img.shields.io/github/stars/Q00/ouroboros.svg?cacheSeconds=86400) - Local-first Agent OS that wraps Claude Code, Codex CLI, and other coding agents in a replayable Seed → Ledger → Runtime contract, driven by an interview → seed → execute → evaluate → evolve workflow loop.
+
 - [pi-sdd-kit](https://github.com/felipefontoura/pi-sdd-kit) ![](https://img.shields.io/github/stars/felipefontoura/pi-sdd-kit.svg?cacheSeconds=86400) - Spec-driven skill pack for the Pi coding agent, with a gated PRD/spec/tasks/review pipeline, steering docs as durable memory, .status approval gates, and EARS requirements.
 
 - [skills](https://github.com/mattpocock/skills) ![](https://img.shields.io/github/stars/mattpocock/skills.svg?cacheSeconds=86400) - Composable engineering skills including PRD/spec, planning, TDD, and architecture workflows for AI-assisted development.
