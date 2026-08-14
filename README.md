@@ -80,6 +80,8 @@
 
 ## Workflow Management
 
+- [GraphCode](https://github.com/scgopi/GraphCode) ![](https://img.shields.io/github/stars/scgopi/GraphCode.svg?cacheSeconds=86400) - Arranges coding-agent sessions into a graph of loops: a goal-based loop ends when its shell predicate exits 0, and hand-off, message, or spawn edges fire unattended.
+
 - [Plans](https://github.com/yrangana/Plans) ![](https://img.shields.io/github/stars/yrangana/Plans.svg?cacheSeconds=86400) - Markdown convention for tracking multi-feature work with per-feature specs, a status front door, and a static roadmap dashboard.
 
 - [RailWarden](https://github.com/advaith-1212/railwarden) ![](https://img.shields.io/github/stars/advaith-1212/railwarden.svg?cacheSeconds=86400) - Deterministic execution and integration control plane for approved multi-agent work: turns plans into dependency-aware isolated work packages, records validation evidence, and gates integration.
