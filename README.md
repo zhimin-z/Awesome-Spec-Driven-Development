@@ -94,6 +94,8 @@
 
 - [VibeDoc](https://github.com/JasonRobertDestiny/VibeDoc) ![](https://img.shields.io/github/stars/JasonRobertDestiny/VibeDoc.svg?cacheSeconds=86400) - Documentation tool for spec-driven development workflows.
 
+- [Okto Pulse](https://github.com/OktoLabsAI/okto-pulse) [![GitHub stars](https://img.shields.io/github/stars/OktoLabsAI/okto-pulse?cacheSeconds=86400)](https://github.com/OktoLabsAI/okto-pulse) - Local-first SDLC workbench that turns specs into governed sprints, tasks, and validation gates, with a knowledge graph for tracing decisions across an AI coding agent's work.
+
 ## Related Lists
 
 - [Awesome Harness Engineering](https://github.com/walkinglabs/awesome-harness-engineering) ![](https://img.shields.io/github/stars/walkinglabs/awesome-harness-engineering.svg?cacheSeconds=86400) - Curated list of articles, playbooks, benchmarks, specs, and open-source projects for harness engineering: shaping the environment around AI agents so they work reliably, with dedicated coverage of specs and agent files.
