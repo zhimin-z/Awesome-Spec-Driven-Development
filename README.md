@@ -72,6 +72,8 @@
 
 - [Kiro](https://github.com/kirodotdev/Kiro) ![](https://img.shields.io/github/stars/kirodotdev/Kiro.svg?cacheSeconds=86400) - Agentic IDE for spec-driven development from prototype to production with natural language coding.
 
+- [Notula](https://github.com/anetrebskii/notula-releases) ![](https://img.shields.io/github/stars/anetrebskii/notula-releases.svg?cacheSeconds=86400) - WYSIWYG editor for the Markdown specs in a git repository, with review threads committed beside the documents rather than written into them, and a comment addressed to `@ai` answered by the coding agent in the thread.
+
 - [spec-kit-command-cursor](https://github.com/madebyaris/spec-kit-command-cursor) ![](https://img.shields.io/github/stars/madebyaris/spec-kit-command-cursor.svg?cacheSeconds=86400) - Spec-driven development toolkit for Cursor IDE that turns ideas into specs, plans, and actionable tasks.
 
 ## MCP Servers
