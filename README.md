@@ -20,6 +20,8 @@
 
 ## Specification Tools
 
+- [reqlan](https://github.com/littletuna4/reqlan) - ![](https://img.shields.io/github/stars/littletuna4/reqlan.svg?cacheSeconds=86400) - Semantic requirements as code: a graph of named ideas your agents can search, link, reuse, test and maintain.
+
 - [adversarial-spec](https://github.com/zscole/adversarial-spec) ![](https://img.shields.io/github/stars/zscole/adversarial-spec.svg?cacheSeconds=86400) - Iteratively refines product specifications by facilitating a debate among multiple LLMs.
 
 - [gsd-core](https://github.com/open-gsd/gsd-core) ![](https://img.shields.io/github/stars/open-gsd/gsd-core.svg?cacheSeconds=86400) - Light-weight meta-prompting, context engineering, and spec-driven development system for AI coding agents.
