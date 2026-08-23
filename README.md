@@ -20,9 +20,9 @@
 
 ## Specification Tools
 
-- [reqlan](https://github.com/littletuna4/reqlan) - ![](https://img.shields.io/github/stars/littletuna4/reqlan.svg?cacheSeconds=86400) - Semantic requirements as code: a graph of named ideas your agents can search, link, reuse, test and maintain.
-
 - [adversarial-spec](https://github.com/zscole/adversarial-spec) ![](https://img.shields.io/github/stars/zscole/adversarial-spec.svg?cacheSeconds=86400) - Iteratively refines product specifications by facilitating a debate among multiple LLMs.
+
+- [dotdog](https://github.com/specdog/dotdog) ![](https://img.shields.io/github/stars/specdog/dotdog.svg?cacheSeconds=86400) - CLI tool for structured software specs. Write .dog files, compile to .dag graphs, query via MCP. Validate completeness, detect drift. 94% token savings.
 
 - [gsd-core](https://github.com/open-gsd/gsd-core) ![](https://img.shields.io/github/stars/open-gsd/gsd-core.svg?cacheSeconds=86400) - Light-weight meta-prompting, context engineering, and spec-driven development system for AI coding agents.
 
@@ -34,13 +34,13 @@
 
 - [quint-code](https://github.com/m0n0x41d/quint-code) ![](https://img.shields.io/github/stars/m0n0x41d/quint-code.svg?cacheSeconds=86400) - Structured reasoning framework for AI coding tools implementing hypothesis-driven spec development with automated design rationale records.
 
+- [reqlan](https://github.com/littletuna4/reqlan) - ![](https://img.shields.io/github/stars/littletuna4/reqlan.svg?cacheSeconds=86400) - Semantic requirements as code: a graph of named ideas your agents can search, link, reuse, test and maintain.
+
 - [Shotgun](https://github.com/shotgun-sh/shotgun) ![](https://img.shields.io/github/stars/shotgun-sh/shotgun.svg?cacheSeconds=86400) - Codebase-aware spec writing tool that keeps AI coding agents on track.
 
-- [Spec Kit](https://github.com/github/spec-kit) ![](https://img.shields.io/github/stars/github/spec-kit.svg?cacheSeconds=86400) - Focuses developers on product scenarios and predictable outcomes over ad-hoc coding.
-
-- [dotdog](https://github.com/specdog/dotdog) ![](https://img.shields.io/github/stars/specdog/dotdog.svg?cacheSeconds=86400) - CLI tool for structured software specs. Write .dog files, compile to .dag graphs, query via MCP. Validate completeness, detect drift. 94% token savings.
-
 - [spec-driver](https://github.com/davidlee/spec-driver) ![](https://img.shields.io/github/stars/davidlee/spec-driver.svg?cacheSeconds=86400) - Reimagines specs as evergreen truth systems that emit deltas to conform code to vision.
+
+- [Spec Kit](https://github.com/github/spec-kit) ![](https://img.shields.io/github/stars/github/spec-kit.svg?cacheSeconds=86400) - Focuses developers on product scenarios and predictable outcomes over ad-hoc coding.
 
 - [vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) ![](https://img.shields.io/github/stars/KhazP/vibe-coding-prompt-template.svg?cacheSeconds=86400) - Staged prompts and a CLI that produce a PRD, a technical design, and AGENTS.md before implementation begins.
 
