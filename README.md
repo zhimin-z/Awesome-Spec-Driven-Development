@@ -40,6 +40,8 @@
 
 - [spec-driver](https://github.com/davidlee/spec-driver) ![](https://img.shields.io/github/stars/davidlee/spec-driver.svg?cacheSeconds=86400) - Reimagines specs as evergreen truth systems that emit deltas to conform code to vision.
 
+- [vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) ![](https://img.shields.io/github/stars/KhazP/vibe-coding-prompt-template.svg?cacheSeconds=86400) - Staged prompts and a CLI that produce a PRD, a technical design, and AGENTS.md before implementation begins.
+
 ## Development Frameworks
 
 - [agent-skills](https://github.com/addyosmani/agent-skills) ![](https://img.shields.io/github/stars/addyosmani/agent-skills.svg?cacheSeconds=86400) - Production-grade skill pack for AI coding agents with explicit spec-to-plan-to-build workflows and quality gates.
