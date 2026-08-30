@@ -34,7 +34,7 @@
 
 - [quint-code](https://github.com/m0n0x41d/quint-code) ![](https://img.shields.io/github/stars/m0n0x41d/quint-code.svg?cacheSeconds=86400) - Structured reasoning framework for AI coding tools implementing hypothesis-driven spec development with automated design rationale records.
 
-- [reqlan](https://github.com/littletuna4/reqlan) - ![](https://img.shields.io/github/stars/littletuna4/reqlan.svg?cacheSeconds=86400) - Semantic requirements as code: a graph of named ideas your agents can search, link, reuse, test and maintain.
+- [reqlan](https://github.com/littletuna4/reqlan) ![](https://img.shields.io/github/stars/littletuna4/reqlan.svg?cacheSeconds=86400) - Language for a requirements graph next to the code: named `.rq` ideas, LSP, links to symbols and tests, MCP for agents.
 
 - [Shotgun](https://github.com/shotgun-sh/shotgun) ![](https://img.shields.io/github/stars/shotgun-sh/shotgun.svg?cacheSeconds=86400) - Codebase-aware spec writing tool that keeps AI coding agents on track.
 
@@ -81,6 +81,8 @@
 - [spec-kit-command-cursor](https://github.com/madebyaris/spec-kit-command-cursor) ![](https://img.shields.io/github/stars/madebyaris/spec-kit-command-cursor.svg?cacheSeconds=86400) - Spec-driven development toolkit for Cursor IDE that turns ideas into specs, plans, and actionable tasks.
 
 ## MCP Servers
+
+- [@reqlan/mcp](https://github.com/littletuna4/reqlan/tree/main/packages/mcp) ![](https://img.shields.io/github/stars/littletuna4/reqlan.svg?cacheSeconds=86400) - Stdio MCP over the same requirement-graph index as the VS Code/Cursor extension and CLI (`npx @reqlan/mcp`).
 
 - [mcp-server-spec-driven-development](https://github.com/formulahendry/mcp-server-spec-driven-development) ![](https://img.shields.io/github/stars/formulahendry/mcp-server-spec-driven-development.svg?cacheSeconds=86400) - MCP server providing structured prompts for requirements, design documents, and code generation.
 
