@@ -104,6 +104,8 @@
 
 - [VibeDoc](https://github.com/JasonRobertDestiny/VibeDoc) ![](https://img.shields.io/github/stars/JasonRobertDestiny/VibeDoc.svg?cacheSeconds=86400) - Documentation tool for spec-driven development workflows.
 
+- [YYLO](https://github.com/yylo-dev/yylo) ![](https://img.shields.io/github/stars/yylo-dev/yylo.svg?cacheSeconds=86400) - Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries: a dedicated branch/worktree per task, risk-based merge review, and receipt-backed repository changes.
+
 ## Related Lists
 
 - [Awesome Harness Engineering](https://github.com/walkinglabs/awesome-harness-engineering) ![](https://img.shields.io/github/stars/walkinglabs/awesome-harness-engineering.svg?cacheSeconds=86400) - Curated list of articles, playbooks, benchmarks, specs, and open-source projects for harness engineering: shaping the environment around AI agents so they work reliably, with dedicated coverage of specs and agent files.
