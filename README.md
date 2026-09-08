@@ -82,6 +82,8 @@
 
 ## MCP Servers
 
+- [compendio-mcp](https://github.com/RuloGB/compendio-mcp) ![](https://img.shields.io/github/stars/RuloGB/compendio-mcp.svg?cacheSeconds=86400) - Local hybrid search over a project's spec and doc markdown, so agents read the right section instead of grepping the whole corpus.
+
 - [@reqlan/mcp](https://github.com/littletuna4/reqlan/tree/main/packages/mcp) ![](https://img.shields.io/github/stars/littletuna4/reqlan.svg?cacheSeconds=86400) - Stdio MCP over the same requirement-graph index as the VS Code/Cursor extension and CLI (`npx @reqlan/mcp`).
 
 - [mcp-server-spec-driven-development](https://github.com/formulahendry/mcp-server-spec-driven-development) ![](https://img.shields.io/github/stars/formulahendry/mcp-server-spec-driven-development.svg?cacheSeconds=86400) - MCP server providing structured prompts for requirements, design documents, and code generation.
